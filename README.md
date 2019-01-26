@@ -1,6 +1,6 @@
 # ProjectRune
 
-This is our first Game, ProjectRune
+This is our first Game, ProjectRune!
 
 Below you'll find information about it!
 While we are still under development 
