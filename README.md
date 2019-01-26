@@ -23,10 +23,10 @@ Unity
 * [Unique Selling Points](#unique-selling-points)
 * [Target Hardware](#target-hardware)
 * [Design Goals](#design-goals)
-    * [Player Choice](#player-choice)
-    * [Expansive Levels](#expansive-levels)
+    * [Expansive Levels](#levels)
     * [Easter Eggs](#easter-eggs)
     * [Replayability](#replayability)
+    * [Player Choice](#player-choice)
 * [Story](#Story)
 
 ## High Concept
@@ -35,13 +35,13 @@ You are a spellcaster, exiled from your order, and removed from your ability to 
 
 ## Features
 
-### `your-choices-matter`
+#### `your-choices-matter`
 Your Choices Matter: 2D platforming and melee combat enhanced by the player’s choice in where they apply their runes, permanently changing their abilities.
 
-### `runic-tattoos`
+#### `runic-tattoos`
 Runic Tattoos: A main focus of player interaction, these runes will allow the player to acquire specialized skills at the cost of being permanently applied to their body.
 
-### a-dark-gothic-horror-aesthetic
+#### `a-dark-gothic-horror-aesthetic`
 A Dark Gothic Horror Aesthetic: A dark and dangerous world trying to stop the player from completing their quest.
 
 ## Player Motivation
@@ -68,9 +68,13 @@ PC platform, Unity Engine
 
 ## Design Goals
 
+#### `levels`
 1. Expansive Levels: Larger levels allowing each player to find their own way to the exit using their choice of movement abilities.
+#### `easter-eggs`
 2. Some runes should be like easter eggs only achievable with specific play through choices.
+#### `replayability`
 3. Replayability: Multiple combos of runes and attacks will lead to different scenarios in each subsequent playthrough.
+#### `player-choice`
 4. Player Choice: Players will be able to tailor their skills to their own style of play. Each rune has a different set of abilities depending on where the rune is placed.
 
 ## Story
