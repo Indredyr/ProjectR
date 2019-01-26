@@ -7,8 +7,7 @@ While we are still under development
 
 # 🔴 Game Specs! 🔴
 
-1) Install the dependencies
-Unity
+1) Install the dependencies: Unity
 
 ## Table of Contents
 
