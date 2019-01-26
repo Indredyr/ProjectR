@@ -22,7 +22,7 @@ Unity
 * [Target Consumer](#target-consumer)
 * [Unique Selling Points](#unique-selling-points)
 * [Target Hardware](#target-hardware)
-* Design Goals](#design-goals)
+* [Design Goals](#design-goals)
     * [Player Choice](#player-choice)
     * [Expansive Levels](#expansive-levels)
     * [Easter Eggs](#easter-eggs)
