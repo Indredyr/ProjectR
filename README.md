@@ -35,7 +35,7 @@ You are a spellcaster, exiled from your order, and removed from your ability to 
 ## Features
 
 #### `your-choices-matter`
-Your Choices Matter: 2D platforming and melee combat enhanced by the player’s choice in where they apply their runes, permanently changing their abilities.
+Your Choices Matter: 3D platforming and melee combat enhanced by the player’s choice in where they apply their runes, permanently changing their abilities.
 
 #### `runic-tattoos`
 Runic Tattoos: A main focus of player interaction, these runes will allow the player to acquire specialized skills at the cost of being permanently applied to their body.
